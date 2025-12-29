@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="purple_200">#9FA8DA</color>
+    <color name="purple_500">#7986CB</color> <!-- Soft Indigo -->
+    <color name="purple_700">#3949AB</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00695C</color>
+    
+    <!-- Base -->
+    <color name="black">#000000</color> <!-- Keep True Black (for text on light buttons) -->
+    <color name="white">#FFFFFF</color> <!-- Keep True White (for text on dark buttons) -->
+    <color name="gray_bg">#121212</color> <!-- Material Dark Background -->
+    <color name="card_bg">#1E1E1E</color> <!-- Surface 1dp -->
+    
+    <!-- Semantics -->
+    <color name="green_money">#81C784</color> <!-- Desaturated Green -->
+    <color name="red_danger">#E57373</color> <!-- Desaturated Red -->
+    <color name="orange_warning">#FFB74D</color>
+
+    <color name="text_primary">#FFFFFF</color> <!-- High Emphasis - Pure White -->
+    <color name="text_secondary">#EEEEEE</color> <!-- Medium Emphasis - Very Light Gray -->
+    
+    <!-- UI Specific for Dark Mode -->
+    <color name="footer_bg">#1E1E1E</color> <!-- Dark Surface -->
+    <color name="debug_bg">#2C2C2C</color> <!-- Slightly lighter surface -->
+    <color name="card_dashboard_green">#1B5E20</color> <!-- Dark Green Background -->
+    <color name="card_dashboard_blue">#0D47A1</color> <!-- Dark Blue Background -->
+    <color name="diagnostic_yellow">#FBC02D</color> <!-- Slightly darker yellow -->
+</resources>
